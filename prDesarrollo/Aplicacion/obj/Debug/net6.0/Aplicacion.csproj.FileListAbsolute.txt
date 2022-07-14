@@ -1,0 +1,17 @@
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\bin\Debug\net6.0\Dominio.dll
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\bin\Debug\net6.0\Persistencia.dll
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\bin\Debug\net6.0\Dominio.pdb
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\bin\Debug\net6.0\Persistencia.pdb
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+D:\Cosas del trabajo\prDesarrollo\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
